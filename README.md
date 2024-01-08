@@ -1,3 +1,5 @@
+<img src="https://github.com/danielfsha/danielfsha/blob/main/my-github-banner.png"/>
+
 ### Hey there! 
 I'm Daniel Fisseha, a passionate frontend developer with a deep passion for creating decentralized applications (dApps). I get a thrill out of crafting user interfaces that seamlessly bridge the gap between humans and smart contracts, making blockchain tech accessible and intuitive for everyone.
 
