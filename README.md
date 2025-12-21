@@ -5,6 +5,7 @@ I'm Daniel Fisseha, a passionate design enginner and UI developer with a deep pa
 
 My skillset includes: 
 ⭐ React, NextJs, HTML, CSS, JavaScript (ES6+) and modern frontend frameworks like React and Next.js
+
 ⭐ Designing UI/UX design to ensure usability and a smooth user flow
 
 
